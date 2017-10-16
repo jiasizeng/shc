@@ -5,3 +5,7 @@
 # Maven
 target/
 
+.ensime
+.ensime_cache/
+.project
+.settings
