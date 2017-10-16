@@ -5,7 +5,13 @@
 # Maven
 target/
 
+# ENSIME
 .ensime
 .ensime_cache/
+
+# IDE
 .project
 .settings
+
+# macOS
+.DS_Store
